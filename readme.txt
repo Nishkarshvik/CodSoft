@@ -1,1 +1,1 @@
-This respository is being created for the respository of tech Internship from CodSoft.
+This repository is being created for the tech Internship from CodSoft.
